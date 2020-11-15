@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package if1.pkg10119023.lahitan50.energikinetik;
+package if1.pkg10119023.latihan50.energikinetik;
 
 /**
  *
